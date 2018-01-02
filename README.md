@@ -1,4 +1,4 @@
-# index_hopping
+# index_hopper
 
 Beta is fully functional.
 
