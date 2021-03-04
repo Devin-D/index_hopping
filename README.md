@@ -2,7 +2,7 @@
 
 Beta is fully functional.
 
-Checks for correctly dual matched indexes.
+Checks for correct dual matched indexes.
 
 input - read pair fq 1, index fq 1, index fq 2, read pair fq 2
 
